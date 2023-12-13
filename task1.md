@@ -16,9 +16,9 @@
 * test_check_interaction_service_repository-contacts проверка на взаимодействие всех классов  Можно использовать fake.
 
 3. End-to-end tests
-* check_user_interface_add_contact  проверка добавление Контакта в систему черещ интерфейс пользователя
-* check_user_interface_change_contact  проверка редактирования Контакта в систему черещ интерфейс пользователя
-* check_user_interface_delete_contact  проверка удаления Контакта в систему черещ интерфейс пользователя
+* check_user_interface_add_contact  проверка добавление Контакта в систему через интерфейс пользователя
+* check_user_interface_change_contact  проверка редактирования Контакта в систему через интерфейс пользователя
+* check_user_interface_delete_contact  проверка удаления Контакта в систему через интерфейс пользователя
 
 
 
